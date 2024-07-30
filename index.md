@@ -4,3 +4,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+``` python
+number = 100
+for i in range(number):
+  pass
+```
+
